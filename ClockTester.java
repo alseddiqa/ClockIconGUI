@@ -6,7 +6,7 @@ import java.util.GregorianCalendar;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-//Exercise 4.18
+//Exercise 4.18 OF OOD 151
 public class ClockTester {
 
 	public static void main(String[] args)
